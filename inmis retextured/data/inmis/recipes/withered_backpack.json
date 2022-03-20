@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b#b",
+    "bXb",
+    "bbb"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "minecraft:soul_sand"
+    },
+    "X": {
+      "item": "inmis:blazing_backpack"
+    }
+  },
+  "result": {
+    "item": "inmis:withered_backpack"
+  }
+}
