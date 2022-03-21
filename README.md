@@ -14,4 +14,4 @@ How to install.
 Again, I can’t express enough that credit goes to Draylar for making to mod possible please go check out their profile and see the amazing mods they have made.
 https://www.curseforge.com/members/draylar1/projects
 
-video tutorial coming soon on the above installation steps and how to create models for yourself.
+video tutorial https://youtu.be/xsXFpwj7MhY
